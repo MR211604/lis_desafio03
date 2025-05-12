@@ -1,0 +1,40 @@
+h2{
+  margin-top: 20px;
+}
+h4{
+  margin-top: 30px;
+}
+h2,h4{
+	text-align: center;
+}
+#showMsg{
+  width:auto;
+  height: 30px;
+  text-align: center;
+}
+label{
+    font-weight: bold;
+  }
+table{
+  width:100%;
+}
+table,th,td {
+  margin:auto;
+  border-collapse: collapse;
+  border:1px solid #c4b2b2;
+  }
+thead {
+  background-color: #265159;
+  color:#fff;
+
+}
+thead,tbody {
+  text-align: center;
+}
+a{
+  text-decoration: none;
+  color: #000;
+}
+.error{
+  color: red;
+}
